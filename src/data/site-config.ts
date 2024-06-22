@@ -38,8 +38,8 @@ export type SiteConfig = {
 };
 
 const siteConfig: SiteConfig = {
-    title: 'VRR',
-    subtitle: 'Portfolio Victor Rios Recio',
+    title: 'Victor R.R.',
+    subtitle: 'Programador',
     description: 'Portfolio y web personal',
     image: {
         src: '/dante-preview.jpg',
