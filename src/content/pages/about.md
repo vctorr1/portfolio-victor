@@ -1,7 +1,7 @@
 ---
-title: About
+title: Sobre mí
 seo:
-  title: About Me
+  title: Sobre mí
   description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
   image:
     src: '/about.jpeg'
@@ -14,9 +14,9 @@ seo:
 
 ## Victor Rios - Programador recién titulado
 
-**Greetings!** I'm Ethan Donovan, a passionate web developer residing in the picturesque landscapes of [Estonia](https://en.wikipedia.org/wiki/Estonia). With a keen eye for design and a love for crafting seamless digital experiences, I bring a unique blend of creativity and technical expertise to the world of web development.
+**Hola!** Soy Victor Ríos, programador recién graduado del grado superior de desarrollo de aplicaciones multiplataforma, con una formación centrada en Java, aunque por lo que estás viendo (y leyendo!) ahora mismo, también me defiendo en el ambiente web.
 
-## Skills and Expertise
+## Habilidades y experiencia
 
 I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
 
