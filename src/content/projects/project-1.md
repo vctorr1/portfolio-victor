@@ -1,6 +1,6 @@
 ---
 title: 'Tienda Online Múdez: Plataforma de Comercio Electrónico'
-description: Tienda Online Múdez es una aplicación móvil de comercio electrónico desarrollada con Flutter y Firebase. Permite a los usuarios navegar por productos, realizar compras y gestionar pedidos, mientras ofrece una interfaz de administración separada para gestionar el inventario y los pedidos.
+description: Múdez es una aplicación móvil de comercio electrónico desarrollada con Flutter y Firebase. Permite a los usuarios navegar por productos, realizar compras y gestionar pedidos, mientras ofrece una interfaz de administración separada para gestionar el inventario y los pedidos.
 publishDate: 'Jun 26 2024'
 seo:
   image:
@@ -8,8 +8,13 @@ seo:
     alt: Vista previa del proyecto
 ---
 
-![Vista previa del proyecto](/project-1.1.jpg,/project-1.2.jpg )
+![Vista previa del proyecto](/project-1.1.jpg)
 ![Vista previa del proyecto](/project-1.2.jpg)
+![Vista previa del proyecto](/project-1.3.jpg)
+![Vista previa del proyecto](/project-1.4.jpg)
+![Vista previa del proyecto](/project-1.5.jpg)
+![Vista previa del proyecto](/project-1.6.jpg)
+![Vista previa del proyecto](/project-1.7.jpg)
 
 **Nota:** Este proyecto ha sido desarrollado como parte del Grado Superior en Desarrollo de Aplicaciones Multiplataforma en el Centro Superior de Formación Europa Sur (CESUR).
 
@@ -64,4 +69,4 @@ Tienda Online Múdez ha logrado crear una plataforma de comercio electrónico co
 
 Este proyecto ha permitido aplicar y expandir los conocimientos adquiridos durante el grado, explorando tecnologías modernas como Flutter y Firebase. Ha demostrado ser una valiosa experiencia de aprendizaje en el desarrollo de aplicaciones móviles y la implementación de soluciones de comercio electrónico.
 
-**Nota:** Este proyecto fue desarrollado por Victor Rios Recio como parte de su formación en Desarrollo de Aplicaciones Multiplataforma.
+**Nota:** Este proyecto fue desarrollado por Victor Rios Recio como parte de su formación en Desarrollo de Aplicaciones Multiplataforma, en concreto como proyecto final..

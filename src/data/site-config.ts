@@ -89,7 +89,7 @@ const siteConfig: SiteConfig = {
     ],
     hero: {
         title: 'Portfolio y proyectos personales',
-        text: "Soy Víctor Ríos, programador recientemente titulado y especializado en Java, aunque he realizado proyectos en otros lenguajes, como Dart/Flutter, Javascript y Python. Visíte <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
+        text: "Soy Víctor Ríos, programador recientemente titulado y especializado en Java, aunque he realizado proyectos en otros lenguajes, como Dart/Flutter, Javascript y Python. Más abajo puedes leer un poco más sobre mi formación y sobre mí, además de contactar conmigo!.",
         image: {
             src: '',
             alt: ''
