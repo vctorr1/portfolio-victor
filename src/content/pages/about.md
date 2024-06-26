@@ -8,7 +8,7 @@ seo:
     alt: Un joven programador trabajando en su computadora
 ---
 
-![Victor Ríos Recio](/about.jpeg)
+![Victor Ríos Recio](/about.jpg)
 
 ## Victor Ríos Recio - Programador
 
@@ -60,7 +60,7 @@ Recién graduado del Grado Superior en Desarrollo de Aplicaciones Multiplataform
 ## Idiomas
 
 - Español (Nativo)
-- Inglés (B2 Trinity College London)
+- Inglés (B2 Trinity College London), aunque cuento con un nivel superior de lectura, escucha y habilidad conversacional!
 
 ## Intereses Personales
 

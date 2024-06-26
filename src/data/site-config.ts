@@ -75,10 +75,6 @@ const siteConfig: SiteConfig = {
         {
             text: 'Términos',
             href: '/terms'
-        },
-        {
-            text: 'Download theme',
-            href: 'https://github.com/JustGoodUI/dante-astro-theme'
         }
     ],
     socialLinks: [
@@ -95,8 +91,8 @@ const siteConfig: SiteConfig = {
         title: 'Portfolio y proyectos personales',
         text: "Soy Víctor Ríos, programador recientemente titulado y especializado en Java, aunque he realizado proyectos en otros lenguajes, como Dart/Flutter, Javascript y Python. Visíte <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '',
+            alt: ''
         },
         actions: [
             {

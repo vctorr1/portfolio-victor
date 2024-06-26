@@ -1,66 +1,73 @@
 ---
-title: 'EcoBuddy: Sustainable Living App'
-description: EcoBuddy is a mobile app that gamifies sustainable living. Users can set eco-friendly goals, track their carbon footprint, and earn virtual rewards for adopting environmentally conscious habits.
-publishDate: 'Jan 02 2024'
+title: 'Tienda Online Múdez: Plataforma de Comercio Electrónico'
+description: Tienda Online Múdez es una aplicación móvil de comercio electrónico desarrollada con Flutter y Firebase. Permite a los usuarios navegar por productos, realizar compras y gestionar pedidos, mientras ofrece una interfaz de administración separada para gestionar el inventario y los pedidos.
+publishDate: 'Jun 26 2024'
 seo:
   image:
-    src: '/project-1.jpg'
-    alt: Project preview
+    src: '/project-1.1.jpg'
+    alt: Vista previa del proyecto
 ---
 
-![Project preview](/project-1.jpg)
+![Vista previa del proyecto](/project-1.1.jpg)
+seo:
+  image:
+    src: '/project-1.2.jpg'
+    alt: Vista previa del proyecto
+---
 
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+![Vista previa del proyecto](/project-1.2.jpg)
 
-**Project Overview:**
-EcoBuddy is a revolutionary mobile application designed to make sustainable living accessible, engaging, and rewarding. With a focus on gamification and real-world impact, EcoBuddy encourages users to adopt eco-friendly habits, reduce their carbon footprint, and contribute to a healthier planet.
+**Nota:** Este proyecto ha sido desarrollado como parte del Grado Superior en Desarrollo de Aplicaciones Multiplataforma en el Centro Superior de Formación Europa Sur (CESUR).
 
-## Objectives
+**Resumen del Proyecto:**
+Tienda Online Múdez es una aplicación de comercio electrónico innovadora diseñada para facilitar la venta de accesorios, ropa y servicios de diseño gráfico. Desarrollada con Flutter y Firebase, la aplicación ofrece una experiencia de usuario fluida y una robusta plataforma de administración.
 
-1. Develop a user-friendly mobile app that motivates individuals to adopt sustainable practices in their daily lives.
-2. Utilize gamification elements to make sustainable living fun and interactive.
-3. Provide educational resources and personalized challenges to empower users to make informed eco-conscious decisions.
+## Objetivos
 
-## Features
+1. Desarrollar una aplicación móvil de comercio electrónico completa y funcional.
+2. Utilizar tecnologías modernas como Flutter, Dart y Firebase para crear una solución escalable y eficiente.
+3. Implementar una interfaz de usuario intuitiva tanto para clientes como para administradores.
+4. Proporcionar una plataforma que permita a pequeños empresarios expandir su negocio al ámbito digital de manera económica.
 
-1. **EcoScore and Challenges:**
+## Características
 
-- Users are assigned an EcoScore based on their sustainable activities and choices.
-- Daily and weekly challenges encourage users to adopt new habits and compete with friends or the community to earn EcoPoints.
+1. **Aplicación para Clientes:**
+   - Registro e inicio de sesión de usuarios
+   - Catálogo de productos con búsqueda y filtrado
+   - Carrito de compras y proceso de pago
+   - Gestión de pedidos y perfil de usuario
 
-2. **Personalized Eco-Goals:**
+2. **Aplicación de Administración:**
+   - Panel de control con estadísticas
+   - Gestión de productos, categorías y marcas
+   - Administración de pedidos y usuarios
+   - Carga de imágenes de productos
 
-- Users can set and track personalized eco-goals, such as reducing plastic usage, conserving water, or choosing eco-friendly transportation.
-- The app provides tips and suggestions to help users achieve their goals.
+3. **Base de Datos en Tiempo Real:**
+   - Sincronización en tiempo real de datos entre clientes y administración
+   - Almacenamiento eficiente de información de productos, usuarios y pedidos
 
-3. **Green Rewards Marketplace:**
+4. **Autenticación y Seguridad:**
+   - Sistema de autenticación seguro mediante Firebase Auth
+   - Aplicaciones separadas para clientes y administración para mayor seguridad
 
-- EcoPoints earned through challenges and sustainable actions can be redeemed in a virtual Green Rewards Marketplace.
-- The marketplace offers discounts on eco-friendly products, services, and even contributions to environmental causes.
+## Stack Tecnológico
 
-4. **Community Hub:**
+- Frontend: Flutter y Dart para desarrollo multiplataforma
+- Backend: Firebase para autenticación y base de datos en tiempo real
+- Base de Datos: Cloud Firestore para almacenamiento flexible y escalable
+- Almacenamiento: Firebase Storage para imágenes de productos
 
-- A community feature allows users to connect, share their eco-friendly achievements, and inspire others.
-- Users can join local eco-groups, organize clean-up events, and collaborate on sustainability projects.
+## Arquitectura
 
-5. **EcoEducator AI Assistant:**
+El proyecto implementa una arquitectura basada en servicios y modelos, separando la lógica de negocio de la interfaz de usuario. Se utilizan patrones como Provider para la gestión del estado y se sigue una estructura de carpetas organizada para mejorar la mantenibilidad del código.
 
-- An AI-powered assistant, EcoEducator, provides personalized eco-tips, facts, and information based on users' preferences and habits.
-- Users can chat with EcoEducator for instant advice on sustainable living.
+## Resultado
 
-## Technology Stack
+Tienda Online Múdez ha logrado crear una plataforma de comercio electrónico completa y funcional, que permite a pequeños empresarios establecer su presencia en línea de manera eficiente y económica. La aplicación ofrece una experiencia de usuario fluida y una gestión sencilla para los administradores.
 
-- Frontend: React Native for cross-platform mobile app development.
-- Backend: Firebase for real-time data synchronization and user authentication.
-- Database: Firestore for scalable and flexible data storage.
-- AI Integration: Dialogflow for natural language processing and conversation with EcoEducator.
+## Conclusiones
 
-## Outcome
+Este proyecto ha permitido aplicar y expandir los conocimientos adquiridos durante el grado, explorando tecnologías modernas como Flutter y Firebase. Ha demostrado ser una valiosa experiencia de aprendizaje en el desarrollo de aplicaciones móviles y la implementación de soluciones de comercio electrónico.
 
-EcoBuddy has successfully created a community of environmentally conscious individuals who actively participate in sustainable living practices. The app not only educates and motivates users but also provides tangible rewards for their commitment to a greener lifestyle, fostering a positive impact on the environment.
-
-## Client Testimonial
-
-> We couldn't be happier with the results delivered by Ethan Donovan. From the initial concept discussions to the final product, their responsiveness and collaborative approach were impressive. Our startup's website now stands out, thanks to their creative input and commitment to excellence.
-
-**Note:** This case study is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+**Nota:** Este proyecto fue desarrollado por Victor Rios Recio como parte de su formación en Desarrollo de Aplicaciones Multiplataforma.
