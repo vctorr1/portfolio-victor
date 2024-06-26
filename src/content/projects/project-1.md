@@ -8,13 +8,7 @@ seo:
     alt: Vista previa del proyecto
 ---
 
-![Vista previa del proyecto](/project-1.1.jpg)
-seo:
-  image:
-    src: '/project-1.2.jpg'
-    alt: Vista previa del proyecto
----
-
+![Vista previa del proyecto](/project-1.1.jpg,/project-1.2.jpg )
 ![Vista previa del proyecto](/project-1.2.jpg)
 
 **Nota:** Este proyecto ha sido desarrollado como parte del Grado Superior en Desarrollo de Aplicaciones Multiplataforma en el Centro Superior de Formación Europa Sur (CESUR).
