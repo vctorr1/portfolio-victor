@@ -2,42 +2,76 @@
 title: Sobre mí
 seo:
   title: Sobre mí
-  description: Learn more about the person behind the website and embark on a journey of inspiration and shared experiences.
+  description: Conoce más sobre Victor Ríos Recio, un joven programador especializado en Java con pasión por la tecnología y el aprendizaje continuo.
   image:
     src: '/about.jpeg'
-    alt: A person sitting at a desk in front of a computer
+    alt: Un joven programador trabajando en su computadora
 ---
 
-![Alt text for image](/about.jpeg)
+![Victor Ríos Recio](/about.jpeg)
 
-**Note!:** This about page is entirely fictional and created for the purpose of showcasing [Dante Astro.js theme functionality](https://justgoodui.com/astro-themes/dante/).
+## Victor Ríos Recio - Programador
 
-## Victor Rios - Programador recién titulado
+**¡Hola!** Soy Victor Ríos Recio, un joven programador recién graduado, especializado en Java pero con un gran interés en aprender nuevos lenguajes y tecnologías. Mi pasión por el mundo de la computación y mi sólida ética de trabajo me impulsan a buscar constantemente nuevos desafíos y oportunidades de crecimiento en el campo del desarrollo de software.
 
-**Hola!** Soy Victor Ríos, programador recién graduado del grado superior de desarrollo de aplicaciones multiplataforma, con una formación centrada en Java, aunque por lo que estás viendo (y leyendo!) ahora mismo, también me defiendo en el ambiente web.
+## Perfil Profesional
 
-## Habilidades y experiencia
+Recién graduado del Grado Superior en Desarrollo de Aplicaciones Multiplataforma, con una formación académica centrada en Java. Sin embargo, mi curiosidad y capacidad de aprendizaje me han llevado a explorar y trabajar en proyectos con otros lenguajes de programación de forma autodidacta.
 
-I specialize in front-end and back-end development, utilizing the latest technologies to build responsive and user-friendly websites. My proficiency includes **HTML**, **CSS**, **JavaScript**, and frameworks such as **Astro.js** for dynamic and interactive user interfaces. On the server side, I'm well-versed in Node.js and have experience with database management systems like MongoDB.
+## Habilidades y Experiencias
 
-## Innovation and Problem-Solving
+- **Programación**: Especializado en Java, con experiencia en JavaFX y AndroidStudio para desarrollo Fullstack.
+- **Desarrollo Web**: Conocimientos en HTML, CSS y XML.
+- **Bases de Datos**: Experiencia con SQL y bases de datos basadas en colecciones.
+- **Desarrollo Móvil**: Proyecto final realizado con Dart/Flutter y Firebase para una app e-commerce multiplataforma.
+- **Herramientas Adicionales**: Manejo de programas de gestión informática como Unycop y RecetaXXI.
+- **Diseño**: Habilidades en diseño y maquetación de recursos gráficos y audiovisuales.
 
-I thrive on solving complex problems and transforming ideas into functional, elegant websites. Whether it's optimizing performance, implementing new features, or troubleshooting issues, I approach each challenge with enthusiasm and a commitment to delivering high-quality solutions.
+## Experiencia Laboral
 
-## Global Perspective, Local Impact
+### FCT Programador de Dispositivos Móviles
+**Gunstar Studio, Sevilla** (Abril 2024 - Junio 2024)
+- Desarrollo de una aplicación de aprendizaje online para Android e iOS utilizando Dart/Flutter.
+- Diseño y edición de elementos multimedia para la aplicación.
+- Coordinación con el equipo web para el uso de una base de datos unificada.
+- Control de stock y documentos mediante Microsoft Dynamics 365.
 
-Living in Estonia has not only influenced my appreciation for nature and culture but has also shaped my approach to web development. I understand the importance of creating digital solutions that resonate with local audiences while maintaining a global perspective.
+### FCT Técnico de Farmacia y Parafarmacia
+**Vitalis Natur, Sevilla** (Marzo 2022 - Junio 2022)
+- Venta de cara al público.
+- Logística y gestión de envíos.
 
-## Continuous Learning
+## Educación
 
-The dynamic nature of the tech industry inspires me to stay up-to-date with the latest trends and advancements. I'm always eager to expand my skill set and embrace emerging technologies that enhance the functionality and aesthetics of the websites I create.
+- **2022 - 2024**: Grado Superior en Desarrollo de Aplicaciones Multiplataforma, CESUR, Sevilla
+- **2020 - 2022**: Grado Medio en Farmacia y Parafarmacia, Ergos María Zambrano, Dos Hermanas
+- **2017 - 2019**: Bachillerato de Artes Plásticas y Diseño, IES Murillo, Sevilla
 
-## Collaboration and Communication
+## Habilidades Adicionales
 
-I believe in the power of collaboration and effective communication. Whether working with clients, designers, or fellow developers, I value clear communication to ensure the success of every project.
+- Trabajo en equipo
+- Ofimática
+- Informática general
+- Stack Adobe
+- Solución de problemas
+- Adaptabilidad
+- Trato de cara al público
 
-## Get in Touch
+## Idiomas
 
-Are you looking to elevate your online presence or bring your digital ideas to life? I'd love to hear from you! Feel free to reach out for collaboration, consultation, or just a friendly chat about all things web development.
+- Español (Nativo)
+- Inglés (B2 Trinity College London)
 
-_Let's build something amazing together!_
+## Intereses Personales
+
+Además de la informática, me apasionan campos como la fotografía, la música, el cine clásico, y sobre todo la cocina!
+
+## Contacto
+
+- **Email**: vctorr1@gmail.com
+- **Ubicación**: Sevilla
+- **GitHub**: [github.com/vctorr1](https://github.com/vctorr1)
+
+¿Estás buscando un programador entusiasta y dedicado para tu equipo? ¡Me encantaría conversar contigo! No dudes en contactarme para discutir oportunidades de colaboración o simplemente para charlar sobre tecnología y desarrollo de software.
+
+_¡Construyamos algo increíble juntos!_

@@ -42,8 +42,8 @@ const siteConfig: SiteConfig = {
     subtitle: 'Programador',
     description: 'Portfolio y web personal',
     image: {
-        src: '/dante-preview.jpg',
-        alt: 'Dante - Astro.js and Tailwind CSS theme'
+        src: '',
+        alt: ''
     },
     headerNavLinks: [
         {
@@ -83,20 +83,16 @@ const siteConfig: SiteConfig = {
     ],
     socialLinks: [
         {
-            text: 'Dribbble',
-            href: 'https://dribbble.com/'
+            text: 'GitHub',
+            href: 'https://github.com/vctorr1'
         },
         {
-            text: 'Instagram',
-            href: 'https://instagram.com/'
-        },
-        {
-            text: 'X/Twitter',
-            href: 'https://twitter.com/'
+            text: 'LinkedIn',
+            href: 'https://www.linkedin.com/in/v%C3%ADctor-r%C3%ADos-recio-0b4432299/'
         }
     ],
     hero: {
-        title: 'Hola y bienvenidos a mi portfolio y web personal!',
+        title: 'Portfolio y proyectos personales',
         text: "Soy Víctor Ríos, programador recientemente titulado y especializado en Java, aunque he realizado proyectos en otros lenguajes, como Dart/Flutter, Javascript y Python. Visíte <a href='https://github.com/JustGoodUI/dante-astro-theme'>GitHub</a> or follow me on <a href='https://twitter.com/justgoodui'>Twitter/X</a>.",
         image: {
             src: '/hero.jpeg',
@@ -110,8 +106,8 @@ const siteConfig: SiteConfig = {
         ]
     },
     subscribe: {
-        title: 'Subscribe to Dante Newsletter',
-        text: 'One update per week. All the latest posts directly in your inbox.',
+        title: 'Actualizaciones por email',
+        text: 'Recibe información sobre mis proyectos y publicaciones.',
         formUrl: '#'
     },
     postsPerPage: 8,
